@@ -9,6 +9,8 @@ Annotations are saved as XML files in PASCAL VOC format.
 
 Baseline: https://github.com/tigerzhaoyue/Face_Boundingbox_Attributes 
 
+![](https://github.com/ZhouKai90/face_bbox_attributes_annotation/blob/master/tests/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+
 Installation
 ------------------
 
